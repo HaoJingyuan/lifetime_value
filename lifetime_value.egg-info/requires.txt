@@ -1,0 +1,6 @@
+numpy>=1.11.1
+pandas
+sklearn
+tensorflow-gpu
+tensorflow-probability
+tqdm

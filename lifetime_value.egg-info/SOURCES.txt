@@ -1,0 +1,13 @@
+LICENSE
+README.md
+setup.py
+lifetime_value/__init__.py
+lifetime_value/metrics.py
+lifetime_value/metrics_test.py
+lifetime_value/zero_inflated_lognormal.py
+lifetime_value/zero_inflated_lognormal_test.py
+lifetime_value.egg-info/PKG-INFO
+lifetime_value.egg-info/SOURCES.txt
+lifetime_value.egg-info/dependency_links.txt
+lifetime_value.egg-info/requires.txt
+lifetime_value.egg-info/top_level.txt

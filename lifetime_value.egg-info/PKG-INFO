@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: lifetime-value
+Version: 0.1
+Summary: Package for lifetime value
+Home-page: https://github.com/google/lifetime_value
+Author: Google LLC
+Author-email: no-reply@google.com
+License: Apache 2.0
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Topic :: Scientific/Engineering :: Mathematics
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+License-File: LICENSE

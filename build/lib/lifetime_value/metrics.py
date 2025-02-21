@@ -48,7 +48,7 @@ def gini_from_gain(df: pd.DataFrame) -> pd.DataFrame:
 
   Arguments:
     df: Each column contains one gain chart. First column must be ground truth.
-    framedata是ltv值
+
   Returns:
     gini_result: This dataframe has two columns containing raw and normalized
                  gini coefficient.

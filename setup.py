@@ -30,7 +30,7 @@ setup(
         'numpy >= 1.11.1',
         'pandas',
         'sklearn',
-        'tensorflow',
+        'tensorflow-gpu',
         'tensorflow-probability',
         'tqdm',
     ],
